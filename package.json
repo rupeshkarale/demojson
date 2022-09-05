@@ -1,0 +1,22 @@
+{
+  "name": "demojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupeshkarale/demojson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupeshkarale/demojson/issues"
+  },
+  "homepage": "https://github.com/rupeshkarale/demojson#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
